@@ -1,1 +1,1 @@
-Testing remote access from git
+Testing for the remote repository
